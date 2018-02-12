@@ -6,5 +6,3 @@ setup(name='gym_snek',
                         'curses',
                         'random']
  )
-
-class SnekEnv
